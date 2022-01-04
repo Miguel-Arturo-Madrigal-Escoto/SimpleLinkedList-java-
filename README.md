@@ -1,3 +1,3 @@
-# SimpleLinkedList-java-
-A linked list java example with generics
-Program of a simple linked list designed in Java programming language
+# Lista Simplemente Ligada
+Se trata de una lista simplemente ligada implementada con clases en el 
+lenguaje de programación Java.
